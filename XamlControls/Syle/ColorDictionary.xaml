@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Color x:Key="PaletteColor1" >#FF37463D</Color>
+    <Color x:Key="PaletteColor2" >#FF5B696B</Color>
+    <Color x:Key="PaletteColor3" >#FF535953</Color>
+    <Color x:Key="PaletteColor4" >#FFF8FBF1</Color>
+    <Color x:Key="PaletteColor5" >#FFC5C5A9</Color>
+
+    <!--Couleurs de base-->
+    <SolidColorBrush x:Key="TextColor" Color="{StaticResource PaletteColor4}" />
+    <SolidColorBrush x:Key="WindowBackgroundColor" Color="{StaticResource PaletteColor2}" />
+    <SolidColorBrush x:Key="PanelBackgroundColor" Color="{StaticResource PaletteColor1}" />
+    <SolidColorBrush x:Key="BorderControlsColor" Color="{StaticResource PaletteColor5}" />
+    <SolidColorBrush x:Key="BackgroundControlsColor" Color="{StaticResource PaletteColor3}" />
+    <SolidColorBrush x:Key="IconPathColor" Color="{StaticResource PaletteColor4}" />
+
+</ResourceDictionary>
