@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWpfAppDemo", "MyWpfAppDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlControls", "XamlControls\XamlControls.csproj", "{7DB8BEAF-4C8D-4BA6-B1D2-5F75A194DE6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCore", "AppCore\AppCore.csproj", "{2EED5A5E-C92D-4C23-B6B9-A6F0C811CFED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7DB8BEAF-4C8D-4BA6-B1D2-5F75A194DE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DB8BEAF-4C8D-4BA6-B1D2-5F75A194DE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DB8BEAF-4C8D-4BA6-B1D2-5F75A194DE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EED5A5E-C92D-4C23-B6B9-A6F0C811CFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EED5A5E-C92D-4C23-B6B9-A6F0C811CFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EED5A5E-C92D-4C23-B6B9-A6F0C811CFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EED5A5E-C92D-4C23-B6B9-A6F0C811CFED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
